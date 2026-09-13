@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john@example.com",
+    "department": "IT",
+    "position": "Frontend Developer",
+    "phone": "9876543210",
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Smith",
+    "email": "sarah@example.com",
+    "department": "HR",
+    "position": "HR Manager",
+    "phone": "9876543211",
+    "status": "Active"
+  },
+  {
+    "id": 3,
+    "name": "David Wilson",
+    "email": "david@example.com",
+    "department": "Finance",
+    "position": "Accountant",
+    "phone": "9876543212",
+    "status": "Active"
+  },
+  {
+    "id": 4,
+    "name": "Emily Brown",
+    "email": "emily@example.com",
+    "department": "Marketing",
+    "position": "Marketing Executive",
+    "phone": "9876543213",
+    "status": "Active"
+  }
+]
